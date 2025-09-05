@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Desktop-light.svg?style=flat&logo=dotnet&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Campus%20Assignment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# Api-Region-Huruf-Hijaiyah
+# API Region - Huruf Hijaiyah
 <strong>Tugas Akhir ke-1 dalam Pemrograman API</strong><br><br>
 Region Visual Basic 6 untuk membentuk huruf ``` Hijaiyah ```
 
